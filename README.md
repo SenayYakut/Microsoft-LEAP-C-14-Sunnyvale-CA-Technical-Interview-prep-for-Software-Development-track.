@@ -12,5 +12,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 # Resources
 [triplebyte](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
+[Programming-interview](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
+
 
 
