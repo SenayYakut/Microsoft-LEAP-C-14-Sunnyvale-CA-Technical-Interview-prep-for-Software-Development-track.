@@ -8,6 +8,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 3. Problem solving : How do you identify if any given point lies within a rectangle
 4. write a function to determine if a word is a palindromeces
+4. given an array of integers, return the first two integers that add up to 10.
 
 
 # Resources
