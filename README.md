@@ -22,6 +22,8 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 
 # Suggestions
+* [BigO](https://www.youtube.com/watch?v=v4cd1O4zkGw&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8&index=23&t=0s)
+
 * Leet code, cracking the code interview, interview cake are great resources. Once you get comfortable maybe record yourself solving a problem so you get familiarity of what that would be like. When the interviewer is telling you something make sure you pay attention, sometimes they will drop hints to see if you pick up on things
 
  when they give you a question make sure you ask clarifying ones if you don't have the full picture._"friend's"_
