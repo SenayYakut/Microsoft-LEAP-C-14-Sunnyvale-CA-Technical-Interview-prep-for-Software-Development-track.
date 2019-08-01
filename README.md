@@ -17,6 +17,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 * [Diversity, Equity, inclution](http://www.diversitysolutions.net/site/diversity-inclusion)
 * [Situalion-task-action-result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 
+
 # Suggestions
 * Leet code, cracking the code interview, interview cake are great resources. Once you get comfortable maybe record yourself solving a problem so you get familiarity of what that would be like. When the interviewer is telling you something make sure you pay attention, sometimes they will drop hints to see if you pick up on things
 
