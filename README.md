@@ -14,6 +14,8 @@ __Hint__:The answer included various things, reading from the database, issuing 
 * [triplebyte](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
 * [Programming-interview](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
 * [behaviorial-interview](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
+* [Diversity, Equity, inclution](http://www.diversitysolutions.net/site/diversity-inclusion)
+* 
 
 # Suggestions
 * Leet code, cracking the code interview, interview cake are great resources. Once you get comfortable maybe record yourself solving a problem so you get familiarity of what that would be like. When the interviewer is telling you something make sure you pay attention, sometimes they will drop hints to see if you pick up on things
@@ -25,7 +27,6 @@ __Hint__:The answer included various things, reading from the database, issuing 
  anything. Don't go overboard, but practicing coding can help you remember the small things that can be hard to remember (likesyntax)
 Make sure to keep a document and write down your thought process as you do it.
 
-* [Diversity, Equity, inclution](http://www.diversitysolutions.net/site/diversity-inclusion)
 
 
 
