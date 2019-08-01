@@ -22,8 +22,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 * For example, you can try writing your own responses and telling them to someone.I cannot say what they asked for the technical portion.You should practice building a project quickly by yourself _"friend's"_
 
-anything. Don't go overboard, but practicing coding can help you remember the small things that can be hard to remember (like syntax)
-
+ anything. Don't go overboard, but practicing coding can help you remember the small things that can be hard to remember (likesyntax)
 Make sure to keep a document and write down your thought process as you do it.
 
 
