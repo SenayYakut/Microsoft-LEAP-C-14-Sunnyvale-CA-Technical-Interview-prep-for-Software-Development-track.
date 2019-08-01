@@ -7,3 +7,6 @@ __HINT__: The answer involves sorting and comparing. Sort the array, then check 
 __Hint__:The answer included various things, reading from the database, issuing payout in parallel, authentication and authorization and every other thing I could think of. The key thing here was observing the interviewer and following his lead. i.e if he looks like he likes it then it's a good design if he doesn't just scrap it and think of something else.
 
 3. Problem solving : How do you identify if any given point lies within a rectangle
+4. write a function to determine if a word is a palindrome
+
+
