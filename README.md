@@ -18,7 +18,9 @@ __Hint__:The answer included various things, reading from the database, issuing 
 # Suggestions
 * Leet code, cracking the code interview, interview cake are great resources. Once you get comfortable maybe record yourself solving a problem so you get familiarity of what that would be like. When the interviewer is telling you something make sure you pay attention, sometimes they will drop hints to see if you pick up on things
 
- when they give you a question make sure you ask clarifying ones if you don't have the full picture.
+ when they give you a question make sure you ask clarifying ones if you don't have the full picture."friend's"
+
+* For example, you can try writing your own responses and telling them to someone.I cannot say what they asked for the technical portion.You should practice building a project quickly by yourself "friend's"
 
 
 
