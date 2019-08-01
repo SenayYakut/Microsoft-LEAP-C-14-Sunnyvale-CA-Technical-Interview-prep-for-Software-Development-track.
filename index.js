@@ -9,7 +9,7 @@ function palindrome(str){
 palindrome("madam");
 
 
-// Sums Answer;
+// Sums Answer; //given an array of integers, return the first two integers that add up to 10.
 
 function twoSum(arr, S){
     var sums=[];
@@ -24,5 +24,5 @@ function twoSum(arr, S){
 
 }
 
-console.log(twoSum([1,2,3,4,5,6],7));
+console.log(twoSum([1,2,3,4,5,6],10));
 
