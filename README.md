@@ -8,7 +8,9 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 3. Problem solving : How do you identify if any given point lies within a rectangle
 4. write a function to determine if a word is a palindromeces
-4. given an array of integers, return the first two integers that add up to 10.
+5. Given an array of integers, return the first two integers that add up to 10.
+6. Construct a method using data structures, 
+7. determine if a string was an anagram) and discuss the Big O notation of various approaches.
 
 
 # Resources
@@ -17,9 +19,12 @@ __Hint__:The answer included various things, reading from the database, issuing 
 * [behaviorial-interview](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
 * [Diversity, Equity, inclution](http://www.diversitysolutions.net/site/diversity-inclusion)
 * [Situalion-task-action-result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+* [CoderByte](https://coderbyte.com/)
 
 
 # Suggestions
+* [BigO](https://www.youtube.com/watch?v=v4cd1O4zkGw&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8&index=23&t=0s)
+
 * Leet code, cracking the code interview, interview cake are great resources. Once you get comfortable maybe record yourself solving a problem so you get familiarity of what that would be like. When the interviewer is telling you something make sure you pay attention, sometimes they will drop hints to see if you pick up on things
 
  when they give you a question make sure you ask clarifying ones if you don't have the full picture._"friend's"_
