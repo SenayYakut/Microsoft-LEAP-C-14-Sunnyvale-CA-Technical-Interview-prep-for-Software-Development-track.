@@ -24,5 +24,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 anything. Don't go overboard, but practicing coding can help you remember the small things that can be hard to remember (like syntax)
 
+Make sure to keep a document and write down your thought process as you do it.
+
 
 
