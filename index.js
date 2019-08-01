@@ -26,3 +26,25 @@ function twoSum(arr, S){
 
 console.log(twoSum([1,2,3,4,5,6],10));
 
+//determine if a string was an anagram) and discuss the Big O notation of various approaches.
+//first of all what is anagram. anagram means all of the characters in a string is same, and they have the same length;
+
+function checkAnagram(str1,str2){
+    if(str1.length !== str2.length){
+        return false;
+    }
+    var charStr1=str1.split("").sort();
+    var charStr2=str2.split("").sort();
+
+    for(var i=0; i<charStr1.length; i++){
+        if (charStr1[i]!==charStr2[i]){
+            return false;
+        }
+    }
+
+    return true;
+
+}
+
+console.log(checkAnagram("senay","esany"));
+console.log(checkAnagram("ayse", "seyd"));
