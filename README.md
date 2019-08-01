@@ -22,6 +22,11 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
  when they give you a question make sure you ask clarifying ones if you don't have the full picture._"friend's"_
 
+* Basic overview of what azure is, Specially if azure is the group that is sponsoring
+ Maybe how you deal with conflict in teams, how to handle situations when you don’t know a topic, how do you work in teams, why Microsoft, why programming
+
+ Maybe take a look at glass door questions. I don’t know if there’s a Microsoft leap one but take a look and see
+
 * For example, you can try writing your own responses and telling them to someone.I cannot say what they asked for the technical portion.You should practice building a project quickly by yourself _"friend's"_
 
  anything. Don't go overboard, but practicing coding can help you remember the small things that can be hard to remember (likesyntax)
