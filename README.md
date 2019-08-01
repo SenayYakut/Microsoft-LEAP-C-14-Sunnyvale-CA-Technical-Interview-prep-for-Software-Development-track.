@@ -18,6 +18,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 * [behaviorial-interview](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
 * [Diversity, Equity, inclution](http://www.diversitysolutions.net/site/diversity-inclusion)
 * [Situalion-task-action-result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+* [CoderByte](https://coderbyte.com/)
 
 
 # Suggestions
