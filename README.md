@@ -41,5 +41,9 @@ Make sure to keep a document and write down your thought process as you do it.
 
 # About Microsoft Azure
 * formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including those for compute, analytics, storage and networking.
+* We can categorize Azure cloud services into 18 main products,
+Compute, Web, DataStorage, Analytics, Networking, Media and content delivery network (CDN), Identity and access management (IAM),Hybrid integration, Internet of things, Development, Security, Artificial intelligence (AI) and machine learning, Containers,Databases, DevOps, Migration, Mobile, Management.
+
+* [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure)  
 
 
