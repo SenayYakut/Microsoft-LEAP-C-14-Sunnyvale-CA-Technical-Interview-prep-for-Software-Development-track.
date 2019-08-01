@@ -11,8 +11,14 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 
 # Resources
-[triplebyte](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
-[Programming-interview](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
+* [triplebyte](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
+* [Programming-interview](https://triplebyte.com/blog/how-to-pass-a-programming-interview)
+* 
+
+# Suggestions
+* Leet code, cracking the code interview, interview cake are great resources. Once you get comfortable maybe record yourself solving a problem so you get familiarity of what that would be like. When the interviewer is telling you something make sure you pay attention, sometimes they will drop hints to see if you pick up on things
+
+ when they give you a question make sure you ask clarifying ones if you don't have the full picture.
 
 
 
