@@ -63,3 +63,25 @@ function point(x,y){
 }
 console.log(point(0,0));
 console.log(point(-4,2));
+
+// sorting, and comparing
+
+function compare(arr1, arr2){
+    var sorted1=arr1.sort();
+    var sorted2=arr2.sort();
+    
+    for(var i=0; i<sorted1.length; i++){
+        if(sorted1[0]===sorted2[0]){
+            return false;
+        }else if(sorted1[i]< sorted2[i] || sorted1[i]> sorted2[i]){
+            continue;
+        }
+    
+    }
+    return true;
+}
+
+console.log(compare([1,2,3,4],[2,3,4,5]));
+console.log(compare([1,0,9],[0,10,11]));
+
+
