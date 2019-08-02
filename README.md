@@ -41,6 +41,14 @@ Make sure to keep a document and write down your thought process as you do it.
 # About Microsoft
 * Microsoft’s Corporate Mission Statement:
 **"_to empower every person and every organization on the planet to achieve more."_**
+* __Features of Microsoft’s Organizational Culture
+
+1. Accountability
+2. Quality and Innovation
+3. Responsiveness to Customers
+4. Growth Mindset
+5. Diversity and Inclusion
+
 
 # About Microsoft Azure
 * formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including those for compute, analytics, storage and networking.
