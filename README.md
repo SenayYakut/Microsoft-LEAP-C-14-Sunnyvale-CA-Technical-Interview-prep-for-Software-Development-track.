@@ -12,6 +12,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 6. Construct a method using data structures, 
 7. determine if a string was an anagram) and discuss the Big O notation of various approaches.
 8. if they gave you a chance what Microsoft product you would be improving ang how?
+9. Design an ATM machine
 
 
 
