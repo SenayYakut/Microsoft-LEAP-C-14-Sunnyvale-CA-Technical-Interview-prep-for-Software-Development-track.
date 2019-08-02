@@ -11,7 +11,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 5. Given an array of integers, return the first two integers that add up to 10.
 6. Construct a method using data structures, 
 7. determine if a string was an anagram) and discuss the Big O notation of various approaches.
-8. if you had given a chance what Microsoft product you would be improving ang how?
+8. if they gave you a chance what Microsoft product you would be improving ang how?
 
 
 
