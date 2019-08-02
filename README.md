@@ -23,6 +23,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 * [Diversity, Equity, inclution](http://www.diversitysolutions.net/site/diversity-inclusion)
 * [Situalion-task-action-result](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 * [CoderByte](https://coderbyte.com/)
+* [Algorith-Data Structures in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 
 
 # Suggestions
