@@ -48,3 +48,18 @@ function checkAnagram(str1,str2){
 
 console.log(checkAnagram("senay","esany"));
 console.log(checkAnagram("ayse", "seyd"));
+
+
+// How do you identify if any given point lies within a rectangle
+
+var s=[-2,-3];
+var n=[2,3];
+function point(x,y){
+    if(s[0]<=x && x<=n[0] && s[1]<=y && y<=n[1]){
+        return true
+    }else{
+        return false;
+    }
+}
+console.log(point(0,0));
+console.log(point(-4,2));
