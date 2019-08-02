@@ -11,6 +11,9 @@ __Hint__:The answer included various things, reading from the database, issuing 
 5. Given an array of integers, return the first two integers that add up to 10.
 6. Construct a method using data structures, 
 7. determine if a string was an anagram) and discuss the Big O notation of various approaches.
+8. if they gave you a chance what Microsoft product you would be improving ang how?
+9. Design an ATM machine
+
 
 
 # Resources
@@ -38,7 +41,26 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
  anything. Don't go overboard, but practicing coding can help you remember the small things that can be hard to remember (likesyntax)
 Make sure to keep a document and write down your thought process as you do it.
+# About Microsoft
+* Microsoft’s Corporate Mission Statement:
+**"_to empower every person and every organization on the planet to achieve more."_**
+* Features of Microsoft’s Organizational Culture
+
+1. Accountability
+2. Quality and Innovation
+3. Responsiveness to Customers
+4. Growth Mindset
+5. Diversity and Inclusion
+
+[Corporate culture of Microsoft](http://panmore.com/microsoft-corporation-organizational-culture-characteristics-analysis)
 
 
+
+# About Microsoft Azure
+* formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including those for compute, analytics, storage and networking.
+* We can categorize Azure cloud services into 18 main products,
+Compute, Web, DataStorage, Analytics, Networking, Media and content delivery network (CDN), Identity and access management (IAM),Hybrid integration, Internet of things, Development, Security, Artificial intelligence (AI) and machine learning, Containers,Databases, DevOps, Migration, Mobile, Management.
+
+* [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure)  
 
 
