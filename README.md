@@ -38,6 +38,9 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
  anything. Don't go overboard, but practicing coding can help you remember the small things that can be hard to remember (likesyntax)
 Make sure to keep a document and write down your thought process as you do it.
+# About Microsoft
+* Microsoft’s Corporate Mission Statement:
+**"_to empower every person and every organization on the planet to achieve more."_**
 
 # About Microsoft Azure
 * formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including those for compute, analytics, storage and networking.
