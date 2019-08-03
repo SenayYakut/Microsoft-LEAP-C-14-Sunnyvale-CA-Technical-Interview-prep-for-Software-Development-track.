@@ -68,5 +68,6 @@ Make sure to keep a document and write down your thought process as you do it.
 Compute, Web, DataStorage, Analytics, Networking, Media and content delivery network (CDN), Identity and access management (IAM),Hybrid integration, Internet of things, Development, Security, Artificial intelligence (AI) and machine learning, Containers,Databases, DevOps, Migration, Mobile, Management.
 
 * [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure)  
+* Microservices in Azure
 
 
