@@ -60,7 +60,9 @@ Make sure to keep a document and write down your thought process as you do it.
 
 [Corporate culture of Microsoft](http://panmore.com/microsoft-corporation-organizational-culture-characteristics-analysis)
 
-
+# What is Microsoft Leap 
+[How did it started](https://www.youtube.com/watch?v=WYJh8HS85Zc)
+https://www.youtube.com/results?search_query=microsoft+leap+technical+interview
 
 # About Microsoft Azure
 * formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including those for compute, analytics, storage and networking.
