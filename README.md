@@ -13,7 +13,8 @@ __Hint__:The answer included various things, reading from the database, issuing 
 7. determine if a string was an anagram) and discuss the Big O notation of various approaches.
 8. if they gave you a chance what Microsoft product you would be improving ang how?
 9. Design an ATM machine
-* Write a JavaScript program to compute the sum and product of an array of integers.
+10. Write a JavaScript program to compute the sum and product of an array of integers.
+11. Write a JavaScript program which accept a string as input and swap the case of each character. For example if you input 'The Quick Brown Fox' the output should be 'tHE qUICK bROWN fOX'. 
 
 
 
