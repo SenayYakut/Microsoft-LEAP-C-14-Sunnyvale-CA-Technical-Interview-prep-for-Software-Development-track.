@@ -85,3 +85,18 @@ console.log(compare([1,2,3,4],[2,3,4,5]));
 console.log(compare([1,0,9],[0,10,11]));
 
 
+//Answer of question number 10
+
+var sum;
+var product;
+function sumProduct(arr){
+    for (let i=0; i<arr.length; i++){
+        sum+=arr[i];
+        product*=arr[i];
+    }
+    console.log("Sum:"+sum+", "+"Product:"+product);
+}
+
+console.log(sumProduct([1,2,3,4]));
+console.log(sumProduct([0,1,2,3,4,5]));
+console.log(sumProduct([-1,1,2,3,4,5]));
