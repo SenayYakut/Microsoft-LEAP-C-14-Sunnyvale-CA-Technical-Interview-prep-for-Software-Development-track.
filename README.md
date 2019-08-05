@@ -13,6 +13,9 @@ __Hint__:The answer included various things, reading from the database, issuing 
 7. determine if a string was an anagram) and discuss the Big O notation of various approaches.
 8. if they gave you a chance what Microsoft product you would be improving ang how?
 9. Design an ATM machine
+* Write a JavaScript program to compute the sum and product of an array of integers.
+
+
 
 # Popular Algorithm Questions
 1. Given a string of characters as input, write a function that returns it with the characters reversed.
@@ -33,6 +36,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 # Suggestions
 * [BigO](https://www.youtube.com/watch?v=v4cd1O4zkGw&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8&index=23&t=0s)
+* [Practice](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php#EDITOR)
 
 * Leet code, cracking the code interview, interview cake are great resources. Once you get comfortable maybe record yourself solving a problem so you get familiarity of what that would be like. When the interviewer is telling you something make sure you pay attention, sometimes they will drop hints to see if you pick up on things
 
@@ -60,7 +64,9 @@ Make sure to keep a document and write down your thought process as you do it.
 
 [Corporate culture of Microsoft](http://panmore.com/microsoft-corporation-organizational-culture-characteristics-analysis)
 
-
+# What is Microsoft Leap 
+[How did it started](https://www.youtube.com/watch?v=WYJh8HS85Zc)
+[Top 10 Microsoft questions](https://www.youtube.com/watch?v=SsmNI3Mlp0I)
 
 # About Microsoft Azure
 * formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including those for compute, analytics, storage and networking.
@@ -68,5 +74,6 @@ Make sure to keep a document and write down your thought process as you do it.
 Compute, Web, DataStorage, Analytics, Networking, Media and content delivery network (CDN), Identity and access management (IAM),Hybrid integration, Internet of things, Development, Security, Artificial intelligence (AI) and machine learning, Containers,Databases, DevOps, Migration, Mobile, Management.
 
 * [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure)  
+* Microservices in Azure
 
 
