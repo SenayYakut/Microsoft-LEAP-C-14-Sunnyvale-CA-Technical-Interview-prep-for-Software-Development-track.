@@ -13,6 +13,9 @@ __Hint__:The answer included various things, reading from the database, issuing 
 7. determine if a string was an anagram) and discuss the Big O notation of various approaches.
 8. if they gave you a chance what Microsoft product you would be improving ang how?
 9. Design an ATM machine
+* Write a JavaScript program to compute the sum and product of an array of integers.
+
+
 
 # Popular Algorithm Questions
 1. Given a string of characters as input, write a function that returns it with the characters reversed.
