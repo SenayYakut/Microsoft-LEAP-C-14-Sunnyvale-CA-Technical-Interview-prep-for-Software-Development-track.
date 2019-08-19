@@ -16,7 +16,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 10. Write a JavaScript program to compute the sum and product of an array of integers.
 11. Write a JavaScript program which accept a string as input and swap the case of each character. For example if you input 'The Quick Brown Fox' the output should be 'tHE qUICK bROWN fOX'. 
 
-
+12. Suppose you have 11 marbles and a two-pan balance used to  compare the weight of 2 things. All of the marbles weigh the same except for one, which is heavier than all of the others. How would you find the heaviest marble if you are only allowed to weigh the marbles 3 times?
 
 # Popular Algorithm Questions
 1. Given a string of characters as input, write a function that returns it with the characters reversed.
