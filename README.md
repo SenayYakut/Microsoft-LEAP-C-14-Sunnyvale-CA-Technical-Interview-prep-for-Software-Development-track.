@@ -22,7 +22,11 @@ __Hint__:The answer included various things, reading from the database, issuing 
 1. Given a string of characters as input, write a function that returns it with the characters reversed.
 2. Write a function that checks if a given word is a palindrome.
 
+# What type interview you should expect
 
+1. Coding
+2. Arcitectural
+3. Behavioral
 
 
 # Resources
