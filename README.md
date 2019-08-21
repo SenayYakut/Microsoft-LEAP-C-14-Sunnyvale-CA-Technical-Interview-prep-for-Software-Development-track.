@@ -70,8 +70,7 @@ Make sure to keep a document and write down your thought process as you do it.
 
 [Corporate culture of Microsoft](http://panmore.com/microsoft-corporation-organizational-culture-characteristics-analysis)
 
-# What is Microsoft Leap 
-[How did it started](https://www.youtube.com/watch?v=WYJh8HS85Zc)
+
 [Top 10 Microsoft questions](https://www.youtube.com/watch?v=SsmNI3Mlp0I)
 
 # About Microsoft Azure
