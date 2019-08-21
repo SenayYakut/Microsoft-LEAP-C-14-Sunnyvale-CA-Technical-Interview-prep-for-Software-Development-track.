@@ -24,8 +24,8 @@ __Hint__:The answer included various things, reading from the database, issuing 
 
 # What type interview you should expect
 
-1. Coding
-2. Arcitectural
+1. Coding(Algorith, Data Structure)
+2. Arcitectural(System Design)
 3. Behavioral
 
 
