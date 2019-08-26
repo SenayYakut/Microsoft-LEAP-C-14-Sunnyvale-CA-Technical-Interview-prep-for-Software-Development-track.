@@ -65,3 +65,9 @@ console.log(myStack.pop());
 console.log(myStack.peek());
 
 
+//JavaScript methods used to implement stack
+pop();
+push();
+peek();
+swap();//the two top most element can be swaped
+empty();//returns true if the stack is empty otherwise false;
