@@ -157,3 +157,28 @@ console.log(stack.pop());
 // returns [10, 20] 
 console.log(stack.printStack());  
 
+//building a simple stack class , also lets talk about _underscores that we use for variable names. This means variables only have internally access, ant stack instances shouldnt be able to access to them.
+
+class Stack{
+    constructor(){
+        this._items=[];
+    }
+    push(item){
+        return this._items.push(item);
+    }
+    pop(){
+        return this._items.pop();
+    }
+    peek(){
+        return this._items[this._items.length-1];
+    }
+    size(){
+        return this._items.length;
+    }
+    isEmpty(){
+        return this._items.length===0;
+    }
+}
+
+var stack=new Stack();
+
