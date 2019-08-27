@@ -1,6 +1,9 @@
 //Stack is LIFO Which is last in first out, think like a pile of pancakes and when you eat, you eat from top and you eat the first one last
 //Stack is a FILO as well, 
 //Stack has limited acsess, you can only push or pop things from top
+//the difference between stack and array is stacks has one gate,LIFO or FILO but you can access to array from any position.
+//Stack vs Queue , the main difference is Stack(LIFO)where Queue is (FIFO). Think about pancakes, they are stack to eachother, and think about you are at the theater and waiting on the line to purchase a ticket. so firt come first serve.
+
 var letters=[];//this is my stack
 var word ="senay";
 var rword="";
