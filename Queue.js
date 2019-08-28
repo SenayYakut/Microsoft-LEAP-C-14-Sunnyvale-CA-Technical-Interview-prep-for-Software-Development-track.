@@ -1,4 +1,6 @@
 //creating a queue
+//FIFO
+//  
 class Queue{
     constructor(){
         this.data=[];
@@ -54,9 +56,24 @@ var rpt="";
 textSize(14);
 frameRate(5);
 
-mouseClicked=function(){
-    var num;
-    if(mouseX<200){
-        
+
+
+// Lets build a queue
+//_ it is a private variable and shouldnt be accessed directly
+class Queue{
+    constructor(){
+        this._storage={};
+        this._start=-1;
+        // replicating 0 index used for arrays
+        this._end=-1;    
+    }
+
+    size(){
+        return this._end - this._start;
     }
 }
+let appleQueue=new Queue();
+
+class Queue{ costructor(){this._storage={}; this._start=-1; this_end=-1;} enqueue(val){ this._storage[++this._end]=val; } size(){return this._end - this._start; }}
+let microsoftQueue = new Queue();
+microsoftQueue.enqueue("{ user:ILoveWindows@gmail.com}")microsoftQueue.enqueue("{user:cortanaIsMyBestFriend@hotmail.com}")microsoftQueue.enqueue("{user:internetExplorer8Fan@outlook.com}")microsoftQueue.enqueue("{user: IThrowApplesOutMyWindow@yahoo.com}")
