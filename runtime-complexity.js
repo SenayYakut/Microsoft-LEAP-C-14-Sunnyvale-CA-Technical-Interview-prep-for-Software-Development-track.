@@ -124,3 +124,22 @@ const myMysteryFunction7=function(array){
 
 myMysteryFunction7([1,2,3,4,5,6,7,8,9,0]);
 //this is a great example of binary search which has O(logn) complexity, it is logaritmatic
+
+//RunTimeExamples
+
+//Constant-Time-Algorithm O(1)
+const getLast = items =>
+    items[items.length-1];
+
+ console.log(getLast(["a","b","c","d"]));//d one iteration, it already knows the position
+ console.log(getLast(["1","2","3","4","5"]));//5 still one iteration it is constant O(1)
+
+ //Linear-Time-Algorithm O(N)
+ 
+
+
+ 
+
+
+
+
