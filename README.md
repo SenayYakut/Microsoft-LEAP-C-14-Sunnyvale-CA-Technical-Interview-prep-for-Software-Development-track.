@@ -21,6 +21,7 @@ __Hint__:The answer included various things, reading from the database, issuing 
 # Popular Algorithm Questions
 1. Given a string of characters as input, write a function that returns it with the characters reversed.
 2. Write a function that checks if a given word is a palindrome.
+3.The  difference between quadratic and factorial run time
 
 # What type interview you should expect
 
