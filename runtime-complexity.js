@@ -136,6 +136,7 @@ const getLast = items =>
 
  //Linear-Time-Algorithm O(N)
  //think about the worst case so it always has to iterate through all of the elements which means N iteration
+ //iteration grows with number of items
  const findIndex = (items, match) => {
     for (let i = 0, total = items.length; i < total; i++)
       if (items[i] == match)
@@ -147,9 +148,24 @@ const getLast = items =>
  console.log(findIndex(array,"y"));//4 worst case
  console.log(findIndex(array, "k"));//-1 worsdt case
 
+ //Quadratic-Time Algorithm O(N^2)-Order N squared
+ //The time grows exponentially related to the number of inputs.
+ //Think about Square Matrix
 
+ const buildSquareMatrix=items=>{
+     let matrix=[];
+     let total=items.length;
+     for(let i=0; i<total; i++){
+         matrix[i]=[];
+         for(let j=0; j<total; j++){
+             matrix[i].push(items[j]);
+         }
+     }
+     return matrix;
+ }
 
- 
+ console.log(buildSquareMatrix(["a","b","c"]));
+
 
 
 
