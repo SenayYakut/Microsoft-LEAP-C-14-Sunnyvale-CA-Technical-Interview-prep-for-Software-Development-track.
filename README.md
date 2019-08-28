@@ -73,6 +73,7 @@ Make sure to keep a document and write down your thought process as you do it.
 
 [Top 10 Microsoft questions](https://www.youtube.com/watch?v=SsmNI3Mlp0I)
 
+# About Microsoft Al
 # About Microsoft Azure
 * formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including those for compute, analytics, storage and networking.
 * We can categorize Azure cloud services into 18 main products,
