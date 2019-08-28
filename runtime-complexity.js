@@ -167,6 +167,29 @@ const getLast = items =>
  console.log(buildSquareMatrix(["a","b","c"]));
 
 
+//Logarithmic-Time-Algorithm O(Logn) Order log N
+//THIS one usually most efficent approach when dealing with large collections of data. they split the data in chunks and discarda large amount on every iteration, usually the half or log base 
 
+const quickSort = list => {
+    if(list.length<2)
+        return list;
+    let pivot=list[0];
+    let left=[];
+    let right=[];
+    let total=list.length;
+    
+    for(let i=1; i<total; i++){
+        if(list[i]<pivot)
+            left.push(list[i]);
+         else
+            right.push(list[i]);
+        }
+    return [
+        ...quickSort(left),
+        pivot,
+        ...quickSort(right)
+    ];
+};
+console.log(quickSort( ['q','a','z','w','s','x','e','d','c','r']));
 
 
