@@ -135,7 +135,18 @@ const getLast = items =>
  console.log(getLast(["1","2","3","4","5"]));//5 still one iteration it is constant O(1)
 
  //Linear-Time-Algorithm O(N)
- 
+ //think about the worst case so it always has to iterate through all of the elements which means N iteration
+ const findIndex = (items, match) => {
+    for (let i = 0, total = items.length; i < total; i++)
+      if (items[i] == match)
+        return i;
+     return -1;
+  };
+ const array=["s","e","n","a","y"];
+ console.log(findIndex(array, "s"));//0 best case 
+ console.log(findIndex(array,"y"));//4 worst case
+ console.log(findIndex(array, "k"));//-1 worsdt case
+
 
 
  
