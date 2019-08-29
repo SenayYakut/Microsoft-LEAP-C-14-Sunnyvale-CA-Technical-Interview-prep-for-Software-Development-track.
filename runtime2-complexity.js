@@ -30,7 +30,7 @@ const findDuplicatesB = (array) => {
     return duplicates;
   }
 
-  
+
 // this O(N), Linear, since the array is sorted , we dont have to do two loops , 
 const findDuplicatesC=(array)=>{
     array.sort();
@@ -60,3 +60,21 @@ const findDuplicatesD = (array) => {
     return duplicated;
   }
   console.log(findDuplicatedD([5,2,4,5,4]));
+
+  //The following 3 functions all count how many an item is in the array and returns a dictionary of counts
+
+  const countOccurencesC = (array) => {
+      const counts={};
+      for(let i=0; i<array.length; i++){
+        const item=array[i];
+        if(counts[item]===undefined){
+            counts[item]=0;
+        }
+        counts[item]+=1;
+      }
+      return counts;
+  }
+  console.log(countOccurencesC([5,2,4,5,4]));
+
+
+  
