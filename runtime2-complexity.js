@@ -63,6 +63,48 @@ const findDuplicatesD = (array) => {
 
   //The following 3 functions all count how many an item is in the array and returns a dictionary of counts
 
+
+  const countOccurencesA = (array) => {
+    const counts = {};
+    for (let i = 0; i < array.length; i++) {
+      const item = array[i];
+      if (counts[item] === undefined) {
+        let countForI = 0;
+        for (let j = 0; j < array.length; j++) {
+          if (array[j] === item) {
+            countForI++;
+          }
+        }
+        counts[item] = countForI;
+      }
+    }
+    return counts;
+    }
+    console.log(countOccurencesA([5,2,4,5,4]));
+
+    //this function is not running correctly
+    const countOccurencesB = (array) => {
+        const counts = {};
+        array.sort();
+        let previousItem = undefined;
+        let itemCount = 0;
+        let currentItem;
+        for (let i = 0; i < array.length; i++) {
+          currentItem = array[i];
+          if (currentItem === previousItem) {
+            itemCount++;
+          } else {
+            counts[currentItem] = itemCount;
+            previousItem = currentItem;
+            itemCount = 1;
+          }
+        }
+        counts[currentItem] = itemCount;
+        return counts;
+      }
+    console.log(countOccurencesB([5,2,4,5,4]));      
+
+  
   const countOccurencesC = (array) => {
       const counts={};
       for(let i=0; i<array.length; i++){
