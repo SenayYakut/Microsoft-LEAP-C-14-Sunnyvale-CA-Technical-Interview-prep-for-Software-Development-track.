@@ -30,4 +30,25 @@ console.log(mostFrequentItem(array3));//0
 console.log(mostFrequentItem(array4));//undefined
 
 
+//Write a function that takes an array of numbers and returns the greatest difference you can get by subtracting any two of those numbers.
+//input:[1, 5, 3, 1, 15], output:14
+
+const array=[1, 5, 3, 1, 15];
+
+
+const greatestDifference=(array)=>{
+    const difference=0;
+    let maxDifference;
+    for(let i=0; i<array.length; i++){
+        for(let j=i+1; j<array.length; j++){
+            maxDifference=array[i]-array[j];
+        }
+        if(maxDifference>difference){
+            difference=maxDifference;
+        
+       }
+    }
+    return Math.abs(maxDifference);
+}
+console.log(greatestDifference(array));
 
