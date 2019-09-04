@@ -126,3 +126,17 @@ compare("at","tat");
 compare("cat","dog");
 
 //Check if a String is composed of all unique characters
+
+function is_unique(str) {
+    var obj = {};
+    for(var z=0;z<str.length;z++) {
+      var ch = str[z];
+      if(obj[ch]) return false; else obj[ch] = true;
+    }
+    return true;
+  }
+  // test:
+  console.log(is_unique("abcdefgh")); // true
+  console.log(is_unique("aa")); // false
+
+  
