@@ -62,3 +62,14 @@ var findMaxDiff = function(arr){
 }
 
 console.log(findMaxDiff([1,5,3,1,15]));
+
+//Find the only element in an array that only occurs once
+//input :[3,5,3,4,6,6,4] output:5
+
+
+
+//Find the common elements of 2 integer arrays
+
+//Determine if 2 strings are anagrams(use the same letters re-arranged)
+
+//Check if a String is composed of all unique characters
