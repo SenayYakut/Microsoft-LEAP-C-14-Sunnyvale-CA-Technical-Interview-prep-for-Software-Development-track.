@@ -70,6 +70,59 @@ console.log(findMaxDiff([1,5,3,1,15]));
 
 //Find the common elements of 2 integer arrays
 
-//Determine if 2 strings are anagrams(use the same letters re-arranged)
+
+const array1=[1,3,2,5];
+const array2=[3,9,8,1];
+const conj=[];
+for(let i=0; i<array1.length; i++){
+	for(let j=0; j<array2.length; j++){
+		if(array1[i]===array2[j]){
+			conj.push(array1[i]);
+		}
+	}
+console.log(conj);
+
+}
+
+//Determine if 2 strings are anagrams(use the same letters re-arranged)//input "cat","act" returns true;
+
+const anagrams=(str1,str2)=>{
+    if(str1.length!==str2.length){
+        return false;
+    }else{
+        for(let i=0; i<str1.length; i++){
+            for(let j=0; j<str2.length; j++){
+                if(str1[i]===str2[j]){
+                    return true;
+                }
+            }
+        }
+    }
+}
+console.log(anagrams("cat","act"));
+console.log(anagrams("at","tat"));
+console.log(anagrams("cat","dog"));
+
+function compare(a,b){
+    let aSorted=a.split("").sort();
+    let bSorted=b.split("").sort();
+    if(a.length!==b.length){
+        return false;
+    }else{
+        for(let i=0; i<aSorted.length; i++){
+            if(aSorted[i]===bSorted[i]){
+                return "anagrams";
+            }
+            return " not anagrams";
+
+        }
+        
+    }
+    console.log(compare(a,b));
+}
+compare("cat","at");
+compare("cat","act");
+compare("at","tat");
+compare("cat","dog");
 
 //Check if a String is composed of all unique characters
