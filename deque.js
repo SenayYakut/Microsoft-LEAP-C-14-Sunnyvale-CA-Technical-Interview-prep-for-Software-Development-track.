@@ -1,6 +1,8 @@
 //implementing deque
 //double ended queue, it allows items to beadded from the same side or remove, and on either side
 //imagine a deck of cards which is where the name of the data structure comes from. You can take a card from the top or bottom of the deck and you can add a card to the top or bottom of a deck.
+//what is the common cases to use deque? A steal Job Scheduling Algorithm, One example where a deque can be used is the A-Steal job scheduling algorithm. ... When one of the processors finishes execution of its own threads (i.e. its deque is empty), it can "steal" a thread from another processor: it gets the last element from the deque of another processor ("remove last element") and executes it.
+
 function Deque(){
     this.stac=new Array();
     this.popback=function(){
