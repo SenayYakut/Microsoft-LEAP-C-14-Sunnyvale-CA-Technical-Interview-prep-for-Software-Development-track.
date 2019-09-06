@@ -30,3 +30,8 @@ alert(deque.popback());
 
 //what are the methods a deque must have?
 // pop,push=>remove or add from the back or shift,unshift which removes or adds from the front
+
+var Deque=require("double-ended-queue");
+var deque=new Deque([1,2,3,4]);
+deque.shift();//1
+deque.pop();//4

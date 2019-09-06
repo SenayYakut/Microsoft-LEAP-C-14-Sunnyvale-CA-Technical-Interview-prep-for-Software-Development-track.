@@ -1,3 +1,5 @@
+//a flexiable data structure that CAN store many nodes. it does this by having each node point to the next node in the list.
+
 class Node{
     constructor(element){
         this.element=element;
