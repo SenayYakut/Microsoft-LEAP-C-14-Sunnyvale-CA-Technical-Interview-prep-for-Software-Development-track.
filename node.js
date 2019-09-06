@@ -19,7 +19,7 @@ class Node {
 }
 const n1=new Node(100);
 console.log(n1);
-
+//creaing a class
 class LinkedList{
     constructor(){
         this.head=null;
