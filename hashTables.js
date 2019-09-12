@@ -27,14 +27,14 @@ alert(a.length);
 function HashTable(obj){
     this.length=0;
     this.items={};
-    for(let p in obj){
+    for(var p in obj){
         if(obj.hasOwnProperty(p)){
             this.items[p]=obj[p];
             this.length++;
         }
     }
     this.setItem=function(key, value){
-        let previous = undefined;
+        var previous = undefined;
         if(this.hasItem(key)){
             previous = this.items[key];
         }else{
@@ -44,7 +44,7 @@ function HashTable(obj){
         return previous;
     }
     this.getItem=function(key){
-        return this.hasItem(key)? this.items[key]:undefined;
+        return this.hasItem(key) ? this.items[key] : undefined;
     }
     this.hasItem=function(key)
     {
@@ -63,16 +63,26 @@ function HashTable(obj){
     }
     this.keys=function(){
         let keys=[];
-        for(letk in this.items){
+        for(var k in this.items){
             if(this.hasItem(k)){
-                values.push(this.items[k]);
+                keys.push(k);
             }
         }
+        return keys;
+    }
+    this.values=function()
+    {
+        var values = [];
+        for (var k in this.items) {
+            if (this.hasItem(k)) {
+                values.push(this.items[k]);
+            }
+        }  
         return values;
     }
-    this.each =function(fn){
-        for(let k in this.items){
-            if(this.hasItem(k)){
+    this.each = function(fn) {
+        for (var k in this.items) {
+            if (this.hasItem(k)) {
                 fn(k, this.items[k]);
             }
         }
