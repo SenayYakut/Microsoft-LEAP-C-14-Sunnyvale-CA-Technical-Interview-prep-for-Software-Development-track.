@@ -102,4 +102,5 @@ function HashTable(obj){
     alert('value of key "im no 4": ' + h.getItem("i'm no 4"));
     h.clear();
     alert('length after clear: ' + h.length);
-        
+   
+    
